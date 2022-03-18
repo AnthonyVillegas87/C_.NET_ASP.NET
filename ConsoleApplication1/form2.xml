@@ -1,4 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ConsoleApplication1>
-    
+<ConsoleApplication1 xmlns:program="http://jetbrains.com/rider/schemas/config">
+    <program:Debtor>"Jane Jones"</program:Debtor>
+    <program:DebtorSsn>"123-24-4550"</program:DebtorSsn>
+    <program:DebtorAddress1>"228 Navarro Way"</program:DebtorAddress1>
+    <program:DebtorAddress2>"NA"</program:DebtorAddress2>
+    <program:DebtorAddress3>"NA"</program:DebtorAddress3>
+    <program:DebtorCounty >"Cibolo"</program:DebtorCounty >
+    <program:DebtorEmail>"jane@gmail.com"</program:DebtorEmail>
+    <program:DateOfBirth>"4/8/1980"</program:DateOfBirth>
+    <program:DebtorCellPhone>"121-221-4535"</program:DebtorCellPhone>
+    <program:Spouse>"Dave Doe"</program:Spouse>
+    <program:SpouseSsn>"123-78-2322"</program:SpouseSsn>
+    <program:SpouseAddress1>"123 Regis BLVD"</program:SpouseAddress1>
+    <program:SpouseAddress2>"NA"</program:SpouseAddress2>
+    <program:SpouseAddress3>"NA"</program:SpouseAddress3>
+    <program:SpouseCounty>"Bexar"</program:SpouseCounty>
+    <program:SpouseEmail>"dave@yahoo.com"</program:SpouseEmail>
+    <program:SpouseDateOfBirth>"1/23/1973"</program:SpouseDateOfBirth>
+    <program:SpouseCellPhone>"NA"</program:SpouseCellPhone>
+    <program:Chapter>"25772"</program:Chapter>
+    <program:TypeofDebtor>"NA"</program:TypeofDebtor>
+    <program:BarId>"2245678"</program:BarId>
+    <program:IsActive>"y"</program:IsActive>
 </ConsoleApplication1>
